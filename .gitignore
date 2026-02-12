@@ -1,0 +1,32 @@
+# Git ignore patterns for presentation files and assets
+
+# Presentation files
+*.pptx
+*.ppt
+*.key
+*.pdf
+
+# Image assets
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Video files
+*.mp4
+*.mov
+*.avi
+
+# Audio files
+*.mp3
+*.wav
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+
+# Other common ignores
+.DS_Store
+Thumbs.db
